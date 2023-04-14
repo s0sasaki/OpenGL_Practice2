@@ -1,4 +1,4 @@
-# OpenGL_Practice2
+# Phone Reflection (OpenGL)
 
 Objects with Phong reflection model and directional/point/spot lights.
 
@@ -24,6 +24,19 @@ To control the objects,
  - Press e/E to make the spot edge sharper/blurrier.
  - Press w/W to make the spot wider/narrower.
 
-Ref: UCSD/CSE167
+![image](https://github.com/s0sasaki/OpenGL_Practice2/blob/3dd5ba1dcb5f3e2cd71c9fce2c1ef21638418c10/screenshots/Screen%20Shot%202018-10-23%20at%2012.59.50.png)
+![image](https://github.com/s0sasaki/OpenGL_Practice2/blob/3dd5ba1dcb5f3e2cd71c9fce2c1ef21638418c10/screenshots/Screen%20Shot%202018-10-23%20at%2013.00.33.png)
+![image](https://github.com/s0sasaki/OpenGL_Practice2/blob/3dd5ba1dcb5f3e2cd71c9fce2c1ef21638418c10/screenshots/Screen%20Shot%202018-10-23%20at%2013.00.47.png)
+![image](https://github.com/s0sasaki/OpenGL_Practice2/blob/3dd5ba1dcb5f3e2cd71c9fce2c1ef21638418c10/screenshots/Screen%20Shot%202018-10-23%20at%2013.01.16.png)
+![image](https://github.com/s0sasaki/OpenGL_Practice2/blob/3dd5ba1dcb5f3e2cd71c9fce2c1ef21638418c10/screenshots/Screen%20Shot%202018-10-23%20at%2013.02.48.png)
+![image](https://github.com/s0sasaki/OpenGL_Practice2/blob/3dd5ba1dcb5f3e2cd71c9fce2c1ef21638418c10/screenshots/Screen%20Shot%202018-10-23%20at%2013.02.58.png)
+![image](https://github.com/s0sasaki/OpenGL_Practice2/blob/3dd5ba1dcb5f3e2cd71c9fce2c1ef21638418c10/screenshots/Screen%20Shot%202018-10-23%20at%2013.03.13.png)
+![image](https://github.com/s0sasaki/OpenGL_Practice2/blob/3dd5ba1dcb5f3e2cd71c9fce2c1ef21638418c10/screenshots/Screen%20Shot%202018-10-23%20at%2013.03.23.png)
+![image](https://github.com/s0sasaki/OpenGL_Practice2/blob/3dd5ba1dcb5f3e2cd71c9fce2c1ef21638418c10/screenshots/Screen%20Shot%202018-10-23%20at%2013.04.01.png)
+![image](https://github.com/s0sasaki/OpenGL_Practice2/blob/3dd5ba1dcb5f3e2cd71c9fce2c1ef21638418c10/screenshots/Screen%20Shot%202018-10-23%20at%2013.04.24.png)
+![image](https://github.com/s0sasaki/OpenGL_Practice2/blob/3dd5ba1dcb5f3e2cd71c9fce2c1ef21638418c10/screenshots/Screen%20Shot%202018-10-23%20at%2013.04.30.png)
 
-Note: To execute this program on Xcode, change the directory setting.
+
+
+
+
